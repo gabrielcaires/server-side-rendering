@@ -3,7 +3,6 @@ module.exports = {
     output: {
         path: __dirname,
         filename: "dist/js/front.js"
-
     },
     module: {
         loaders: [
